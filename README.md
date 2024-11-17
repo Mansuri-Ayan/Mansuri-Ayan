@@ -1,3 +1,4 @@
+![logo](https://github.com/Mansuri-Ayan/Mansuri-Ayan/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mansuri Ayan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
